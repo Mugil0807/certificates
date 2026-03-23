@@ -14,6 +14,13 @@ Issued by **National Skill Development Corporation (NSDC)** in collaboration wit
 | **Module 1: Foundations of Data Science** | Covered data preprocessing, EDA, and basics of ML pipelines. | [View Certificate](https://github.com/Mugil0807/certificates/blob/main/NSDC_Module1.pdf) |
 | **Module 2: Applied ML (Regression, Classification & Clustering)** | Applied ML models using real datasets, model evaluation & tuning. | [View Certificate](https://github.com/Mugil0807/certificates/blob/main/NSDC_Module2.pdf) |
 
+### ☁️ AWS Academy Graduate Certification
+Issued by **AWS Academy**.
+
+| Certification | Description | Credential |
+|:--------------|:------------|:------------|
+| **AWS Academy Graduate - AWS Academy Cloud Foundations** | Covers core cloud concepts, AWS global infrastructure, security, architecture, pricing, and support models. | [View Certificate](https://github.com/Mugil0807/certificates/blob/main/AWS_Cloud_Academy_Foundations.pdf) |
+
 ---
 
 ## 🧩 Upcoming & Planned Additions
@@ -30,7 +37,7 @@ Issued by **National Skill Development Corporation (NSDC)** in collaboration wit
 These certifications directly support the practical skills applied in my core projects:
 - **Real-Time Hand Cricket Game (Aug’25–Present)** — Gesture recognition using BiLSTM + GCN  
 - **Fluency Analytics (Aug’25–Present)** — ML for text fluency evaluation  
-- **Bio-Crypto Hybrid RNG (Jan’25–May’25)** — Hybrid entropy + system randomness analysis  
+- **Bio-Crypto Hybrid RNG (Jan’25–May’25)** — Hybrid entropy + system randomness analysis
 
 Together, they build the foundation of my research-driven approach toward **AI Systems Engineering**.
 
@@ -38,8 +45,9 @@ Together, they build the foundation of my research-driven approach toward **AI S
 
 ## 🧾 Verification
 All uploaded credentials are either:
-- Official PDFs downloaded directly from **Amrita Vishwa Vidyapeetham portals**, or  
-- Digital copies provided by **NSDC** via institutional issue.  
+- Official PDFs downloaded directly from **Amrita Vishwa Vidyapeetham portals**, or
+- Digital copies provided by **NSDC** and **AWS Academy** via institutional issue.
+
 Each document is unaltered and publicly verifiable.
 
 ---
